@@ -1,0 +1,3 @@
+pandas # for data manipulation and analysis
+numpy # for numerical computing
+colorama # for adding color to the terminal output
